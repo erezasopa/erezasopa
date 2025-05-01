@@ -2,6 +2,6 @@
 I'm a Data Analyst passionate about turning raw data into actionable insights.
 
 **🔧 Tools & Skills:**  
-Python | Pandas | SQL | Power BI | Excel | Data Visualization | Machine Learning Basics
+SQL | Power BI | Excel | Data Visualization | Machine Learning Basics
 
 📫 [LinkedIn](linkedin.com/in/erezasopa) | 📊 Portfolio: (https://github.com/erezasopa)
